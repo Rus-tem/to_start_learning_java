@@ -21,7 +21,7 @@
  - Создание файлов и директорий — touch, mkdir
  
 __Пример:__ 
-  touch my-new-file.txt # создали файл my-new-file.txt 
+ - touch my-new-file.txt # создали файл my-new-file.txt 
  - $ mkdir new-dir # создали директорию new-dir 
  - Копирование файлов — cp
 __Пример:__ cp index.html src/ скопировали index.html в папку src 
